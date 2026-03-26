@@ -9,9 +9,9 @@ Carefully curated warm neutral + accent colors.
 # ══════════════════════════════════════════════════════════════════════════════
 
 LIGHT = {
-    "bg":               "#F7F4F0",
+    "bg":               "#e3ded8",
     "bg_secondary":     "#EFEBE5",
-    "bg_card":          "#FFFFFF",
+    "bg_card":          "#e3ded8",
     "bg_card_hover":    "#FBF8F5",
     "bg_input":         "#FFFFFF",
     "bg_done":          "#F2EFEB",

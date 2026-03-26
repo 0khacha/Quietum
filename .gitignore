@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.spec
+build/
+dist/
+*.egg-info/
+error_log.txt
+test_run.py
